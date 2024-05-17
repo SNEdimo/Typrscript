@@ -1,0 +1,6 @@
+console.log("verificado")
+console.log('verificado')
+console.log(`Verficado`)
+console.log(1 + `2`)
+console.log(1 + 2)
+console.log(1.23, 45, `verificado`)
