@@ -1,0 +1,129 @@
+METODOS QUANTITATIVOS
+#########################
+MODULO 1
+	PO - Pesquisa Operacional
+	Circo de Blakett
+		contexto historico
+		- durante a 2º  guerra
+		- medida e contra medidas contra forças aereas e submarinas inimigas
+		foco da pesquisa
+		-desenvolviemtno de sonar
+		-analise de dados:estatisticas 
+		futuro
+		-advento dos microprocessadores
+
+	Aplicação PO
+		industria manufatura
+		empresa de transporte
+		construção
+		telecomunicação
+		banco
+		assistencia medica
+		serviço publico
+		(petrobras, mrs logistica, consulta especializada)
+
+	problemas cotidiano
+		importante o PO para analise de decisão na gerencia
+		
+	modelo é uma representação abstrata de um sistema real(mapa)
+	precisa ter escala e ser preciso
+	
+	tecnicas utilizadas
+		- programação linear, não linear
+		- teoria das dilas
+		- simulação
+		- teoria dos jogos
+		
+	MODELOS MATEMATICOS
+		mais barato que a estrutura real
+		é composto por
+			- variaveis de decisão
+			- funções objetivo (maximizar lucro da empresa)
+			- restrições (disponibilidade de materia prima, mão de obra, ...)
+		M estaticos ou dinamicos
+			- E em um intervalo e D em varios
+		M lineares ou não lineares
+			- L apenas equações E, e o NL o oposto
+		M inteiro ou não inteiros
+			- literalmente valores inteiros ou float
+		M deterministicos ou estocastico
+			os componentes são sem aleatoriedade e com
+			
+	FASES DE UM PO
+		formulação do problema
+			|
+		obs do sistema
+			|
+		formula modelo matematico
+			|
+		verifica modelo para predição
+			|
+		seleciona melhor alternativa
+			|
+		apresentação dos resultados
+			|
+		resultado satisfatorio ? implantação : volta na formulação
+		
+MODULO 2 (PESQUISAR VIDEO YT)
+	PROGRAMAÇÃO LINEAR
+		maneira ideal/eficiente de usar recursos limitados
+		problemas que podem ser solucionados por euqações lineares
+		
+		caracteristicas
+			- equação linear
+			- um objetivo a ser otimizado (função objetivo)
+			- fatores controlaveis (variaveis de decisão)
+			- || não || (parametros)
+			
+		ordem para fazer acima
+			- identificar variaveis de decisão
+			- identificar função objetivo
+			- identificar restrições
+			
+MODULO 3
+	METODO GRAFICO
+		COPILOT
+			- acha a intersecção e o x e y, são a solução otima
+			- se houver a intersecção
+			
+		max = 350x + 300y
+		x + y <= 200
+		9x + 6y <= 1566
+		12x + 16y <= 2880
+		x >= 0
+		y >= 0
+		###########################
+		y = 200 - x
+		12x + 16(200-x) = 2880
+		12x+3200-16x=2880
+		12x-16x=2800-3200
+		4x=400
+		> x = 100
+		> y = 100
+		###########################
+		x+y<=200     (100+100=200)
+		9x+6y<=1566  (900+600=1500)
+		12x+16y<=2880(1200+1600=2800)
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
