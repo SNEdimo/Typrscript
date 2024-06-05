@@ -1,0 +1,16 @@
+body{
+    background-color: #404040;
+}
+#titulodiv{
+    background-color: white;
+    border-radius: 10px;
+    width: 10%;
+    text-align: center;
+}
+a{
+    background-color: #505050;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: lightblue;
+    text-decoration: none;
+}
